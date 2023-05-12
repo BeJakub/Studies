@@ -1,0 +1,12 @@
+LAB 2:
+-  Elementarne operacje wektorowe i macierzowe
+LAB 3:
+- Elementarne obliczenia Monte Carlo i ich zastosowania
+LAB 4:
+- Techniki Monte Carlo w obliczeniach wielowymiarowych
+LAB 5:
+- Pojecie wektora stanu i elementarne symulacje ruchu
+LAB 6:
+- Elementarne uklady dynamiczne o wlasnosciach chaotycznych, bifurkacja
+LAB 7/8:
+- Numeryczne rozwiazywanie rownan rozniczkowych
