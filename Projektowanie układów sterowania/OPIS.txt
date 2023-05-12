@@ -1,0 +1,10 @@
+Laboratorium 2:
+- Charakterystyki statyczne
+Laboratorium 4:
+- Tworzenie modelu symulacyjnego i badania symulacyjne na blokach całkujących
+Laboratorium 5:
+- Tworzenie schematu symulacyjnego na podstawie transmitancji
+Laboratorium 6:
+- Identyfikacja na podstawie odpowiedzi skokowej (model Küpfmüllera - FOTD)
+Laboratorium 7:
+- Jednoobwodowy układ regulacji z regulatorem PI
