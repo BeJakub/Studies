@@ -1,0 +1,3 @@
+Wstęp do programowania procesów. Realizacja każdego polecenia musi nastąpić w podprocesie. Proces główny zajmuje się tylko odczytem polecenia użytkownika (funkcja fgets), uruchomieniem podprocesu do obsługi tego polecenia (funkcja fork), oraz powrotem do odczytu kolejnych poleceń.
+
+

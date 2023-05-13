@@ -1,0 +1,1 @@
+Celem zadania było przeprowadzenie eksperymentów z programem współbieżnym, należało zbudować program do przeprowadzania licytacji. Pamięci wspólną tworzymy zgodnie ze standardem System V IPC. W dalszej części wykorzystano semafory do ochrony sekcji krytycznej. 

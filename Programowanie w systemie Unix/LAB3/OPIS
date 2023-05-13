@@ -1,0 +1,7 @@
+
+Napisz skrypt policz, podobny do prezentowanego na wykładzie, który policzy i wyświetli liczbę plików w katalogu bieżącym. WSKAZÓWKA: opcja -1 do programu ls powoduje wyświetlanie po jednym pliku w linijce, a program wc można wywołać z opcją -l powodującą policzenie tylko liczby linijek.
+
+
+Napisz skrypt policz2.sh o działaniu takim jak policz z poprzedniego zadania, z dodatkowym użyciem argumentu opcjonalnego -a, podobnie jak program ls. To znaczy, z argumentem -a skrypt obliczy liczbę wszystkich plików w katalogu bieżącym, włącznie z plikami "ukrytymi" (o nazwach zaczynających się od kropki), a bez -a pominie te pliki.
+
+skrypt 3.shjest dalszą modyfikacją napisanego wcześniej policz2, który oprócz argumentu opcjonalnego -a (który jeśli jest, to musi występować jako pierwszy), przyjmie dowolną liczbę dalszych argumentów (tzw. argumentów pozycyjnych), które potraktuje jako nazwy katalogów, dla każdego z których należy oddzielnie policzyć liczbę zawartych w nim plików, jak skrypt policz2. Jeśli argumentów pozycyjnych nie ma, to skrypt policzy pliki w katalogu bieżącym, jak policz2.

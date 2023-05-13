@@ -1,0 +1,1 @@
+Zadaniem było modyfikacja napisanego poprzednio programu do licytacji cen wielu przedmiotów przez wielu agentów na wersję klient-serwer. Programy klientów powinny komunikować się z serwerem przez gniazdka domeny Unix PF_UNIX (opcjonalnie: gniazdka internetowe PF_INET). Komunikacja powinna być bezpołączeniowa SOCK_DGRAM.
